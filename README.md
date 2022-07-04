@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aberinkula36
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Python and doing a FrontEnd Web Development Bootcamp
-- 💞️ I’m looking to collaborate on PHP/MySQL/VueJS
+- 👀 I ❤️ programming and web developing with PHP, HTML, CSS, JavaScript, Bootstrap, etc
+- 🌱 I’m currently learning Python and doing a FrontEnd Web Development Bootcamp 
+- 💞️ I’m looking to collaborate on any project involving Fullstack development
 - 📫 How to reach me: jmsaezteruel@hotmail.com
 
 <!---
